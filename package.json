@@ -1,0 +1,22 @@
+{
+  "name": "rustacean",
+  "displayName": "rustacean",
+  "description": "Color scheme for rustaceans!",
+  "repository": {},
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rustacean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rustacean-color-theme.json"
+      }
+    ]
+  }
+}
