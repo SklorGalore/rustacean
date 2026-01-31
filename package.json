@@ -4,8 +4,6 @@
   "description": "Color scheme for rustaceans!",
   "publisher": "SkylarCoelho",
   "icon": "cuddlyferris.png",
-  "publisher": "SkylarCoelho",
-  "icon": "cuddlyferris.png",
   "repository": {"directory": "https://github.com/SklorGalore/rustacean.git"},
   "version": "0.0.3",
   "engines": {
