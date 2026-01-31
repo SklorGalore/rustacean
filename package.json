@@ -2,7 +2,7 @@
   "name": "rustacean",
   "displayName": "rustacean",
   "description": "Color scheme for rustaceans!",
-  "repository": {"https://github.com/SklorGalore/rustacean.git"},
+  "repository": {"directory": "https://github.com/SklorGalore/rustacean.git"},
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.108.1"
